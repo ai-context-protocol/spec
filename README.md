@@ -85,6 +85,12 @@ The full specification is available at:
 
 Created by Mark Mundy ([@mmundy3832](https://github.com/mmundy3832)), December 2025.
 
+## Timestamps
+
+Public record established December 9, 2025:
+- [Specification (Archive.org)](https://web.archive.org/web/20251209184500/https://github.com/ai-context-protocol/spec/blob/main/spec/ai-context-protocol-v0.1.md)
+- [README (Archive.org)](https://web.archive.org/web/20251209184812/https://github.com/ai-context-protocol/spec/blob/main/README.md)
+
 ## License
 
 This specification is licensed under the [Apache License 2.0](LICENSE).
